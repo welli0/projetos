@@ -1,0 +1,8 @@
+main {
+  max-width: 1200px;
+}
+
+.main-texto {
+  display: flex;
+  justify-content: center;
+}
